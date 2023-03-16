@@ -1,0 +1,39 @@
+.form{
+  padding-left: 50px;
+  padding-top: 25px;
+  background-color: white;
+  color: black;
+  width: 600px;
+  height: 650px;
+  margin-top: 10px;
+  margin-left: 450px;
+  margin-bottom: 50px;
+
+}
+.legend{
+  font-size: 20px;
+  font-weight: bolder;
+  padding-left: 90px;
+}
+input{
+  padding-top: 4px;
+  width: 80%;
+  height: 5%;
+  border-radius: 5px;
+  border: 1px solid black;
+
+}
+label{
+  padding-bottom: 5px;
+}
+.text{
+  background-color: dodgerblue;
+  color: white;
+  width: 450px;
+  height: 35px;
+  border-radius: 1px;
+  border: 1px solid black;
+}
+.body{
+  background-image: url("Images/index.jpeg");
+}
